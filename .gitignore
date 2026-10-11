@@ -1,0 +1,23 @@
+# Original survey datasets
+survey_results_public.csv
+survey_results_schema.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local settings and secrets
+.streamlit/secrets.toml
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
